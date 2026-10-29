@@ -37,6 +37,7 @@
 - [ ] Add hover and keyboard-focus effects.
 - [ ] Test on mobile, tablet, and desktop.
 
-**Repository:** [Week 2](https://github.com/Anthony-mugwe/iyf-s12-week-02-Anthony-mugwe)
+**Repository:** [Week 2](https://github.com/Anthony-mugwe/-iyf-s12-week-02-Anthony-mugwe.git)
+
 
 ---
